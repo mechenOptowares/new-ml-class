@@ -1,0 +1,7 @@
+wandb-debug.log
+*.npy
+npy
+**/wandb/*
+!**/wandb/settings
+keras-sign/sign-language
+**/__pycache__
